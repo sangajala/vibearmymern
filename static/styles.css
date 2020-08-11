@@ -1,0 +1,40 @@
+:root {
+  --bodyBg: #f0f4f8;
+  --menuBg: #334d68;
+  --progressBar: #54d1db;
+}
+
+body {
+  background: var(--bodyBg);
+}
+
+#menu {
+  background: var(--menuBg);
+}
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+/* Overrides default styled accordion styles (too much bottom padding) */
+.ui.styled.accordion .content {
+  margin: 0;
+  padding: 0.5em 1em 0.75em !important;
+}
+
+/*youtube */
+.player-wrapper 
+{
+  position: relative;
+  padding-top: 56.25% /* Player ratio: 100 / (1280 / 720) */
+}
+ 
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+
+
+
+
+body #fonts {
+font-family: 'Montserrat', sans-serif;
+}

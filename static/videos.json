@@ -1,0 +1,77 @@
+[
+    {
+        "title": "devotional",
+        "mediaUrl": "https://res.cloudinary.com/devappsniharika/image/upload/v1595866777/videos/film-and-vid_eywuxp.jpg",
+        "price": 0,
+        "videourl": "https://www.youtube.com/watch?v=KHM7W0GrQvM",
+        "description": "devotional"
+        
+      
+        
+        
+    },
+    
+    {
+        "title": "latestTelugu",
+        "mediaUrl": "https://res.cloudinary.com/devappsniharika/image/upload/v1595866722/videos/acastro_180403_1777_youtube_0002.0_v0q8yk.jpg",
+        "price": 0,
+        "videourl": "https://www.youtube.com/watch?v=p6oY1Nhh4jc",
+        "description": "latest"
+      
+        
+    },
+    
+    
+    {
+        "title": "toyStory",
+        "mediaUrl": "https://res.cloudinary.com/devappsniharika/image/upload/v1595868267/videos/FriendsLead_t0vbr5.jpg",
+        "price": 0,
+        "videourl": "https://res.cloudinary.com/devappsniharika/video/upload/v1596530565/videos/testVideo_ghms8k.mp4",
+        "description": "toy story"
+     
+        
+        
+    },
+    
+    
+    {
+        "title": "iceAge",
+        "mediaUrl": "https://res.cloudinary.com/devappsniharika/image/upload/v1595868909/videos/MV5BMmYxZWY2NzgtYzJjZC00MDFmLTgxZTctMjRiYjdjY2FhODg3XkEyXkFqcGdeQXVyNjk1Njg5NTA_._V1_UY1200_CR85_0_630_1200_AL__fteewz.jpg",
+        "price": 0,
+        "videourl": "https://www.youtube.com/watch?v=xz-KgMtU_BM",
+        "description": "iceAge"
+       
+        
+    },
+    
+    {
+        "title": "english",
+        "mediaUrl": "https://res.cloudinary.com/devappsniharika/image/upload/v1595869187/videos/220px-Terminator_Dark_Fate_poster_gycuku.jpg",
+        "price": 0,
+        "videourl": "https://www.youtube.com/watch?v=kffacxfA7G4",
+        "description": "english"
+       
+        
+    },
+    
+    {
+        "title": "2019 hits",
+        "mediaUrl": "https://res.cloudinary.com/devappsniharika/image/upload/v1595867007/videos/bsi_toomt14_o0fh8c.jpg",
+        "price": 0,
+        "videourl": "https://www.youtube.com/watch?v=7o11CfS6uBI&t=28s",
+        "description": "2019"
+       
+        
+    },
+    
+    {
+        "title": "BangBang",
+        "mediaUrl": "https://res.cloudinary.com/devappsniharika/image/upload/v1595869335/videos/MV5BZjJjN2IyMGYtNzYwNS00YzFhLTg2N2MtMmZhNjFkNmUyYmI0XkEyXkFqcGdeQXVyNDkxMzY0Mjk_._V1__o5lted.jpg",
+        "price": 0,
+        "videourl": "https://www.youtube.com/watch?v=K8KAbu45-kE&list=RDK8KAbu45-kE&index=1",
+        "description": "BangBang"
+     
+        
+    }
+ 
+]
